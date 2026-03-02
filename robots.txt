@@ -10,4 +10,4 @@ Allow: /
 User-agent: anthropic-ai
 Allow: /
 
-Sitemap: https://baghaei.com/sitemap.xml
+Sitemap: http://baghaei.me/sitemap.xml
